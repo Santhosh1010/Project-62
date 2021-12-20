@@ -1,0 +1,44 @@
+#Grids {
+    width: 100%;
+    height: 770px;
+}
+
+.img2
+{
+    height: 300px;
+    width: 370px;
+    margin-top: 35px;
+}
+
+
+
+.row p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#Slides img
+{
+    height: 250px;
+}
+
+#myCarousel 
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 350px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
